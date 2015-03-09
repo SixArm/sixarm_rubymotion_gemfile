@@ -1,4 +1,4 @@
-# SixArm.com » RubyMotion » <br> Gemfile of gems and descriptions
+# RubyMotion » <br> Gemfile of gems and descriptions
 
 * Docs: <http://sixarm.com/sixarm_rubymotion_gemfile/doc>
 * Repo: <http://github.com/sixarm/sixarm_rubymotion_gemfile>
